@@ -1,4 +1,4 @@
-name: Automatic GitHub Release
+name: Laufer - Automatic GitHub Release
 description: Automatic GitHub release when the package.json version changes
 branding:
   color: blue
